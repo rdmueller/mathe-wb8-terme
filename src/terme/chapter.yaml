@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title: Terme
+summary: Terme aufstellen, Werte berechnen, gleichartige Glieder zusammenfassen und Produkte mit Vorzeichen – Rechnen mit Buchstaben statt Zahlen.
+pages: [aufstellen, werte-berechnen, zusammenfassen, produkte]
+# The chapter's self-assessment: one step, one exercise per page (generated where possible), in course order.
+selfAssessment:
+  pages:
+    - exercises:
+        - /terme/aufstellen/#aufstellen-umfang
+        - /terme/werte-berechnen/#werte-berechnen-einsetzen
+        - /terme/zusammenfassen/#zusammenfassen-koeffizient
+        - /terme/produkte/#produkte-koeffizient

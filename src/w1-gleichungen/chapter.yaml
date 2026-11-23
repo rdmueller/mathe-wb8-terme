@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../../node_modules/@lernapps/app-templates/runtime/explainer/explainer.v2.schema.json
+title: "Wahlaufgabe W1: Terme und Gleichungen"
+summary: Klammern auflösen, Gleichungen und Ungleichungen lösen, der Satz vom Nullprodukt und die Lösungsmenge mit der Grundmenge ℤ.
+pages: [klammern, gleichungen, ungleichungen, nullprodukt, loesungsmenge]
+# The chapter's self-assessment: one step, one exercise per page (generated where possible), in course order.
+selfAssessment:
+  pages:
+    - exercises:
+        - /w1-gleichungen/klammern/#klammern-zahl
+        - /w1-gleichungen/gleichungen/#gleichungen-beide-seiten
+        - /w1-gleichungen/ungleichungen/#ungleichungen-teilen
+        - /w1-gleichungen/nullprodukt/#nullprodukt-kleinere
+        - /w1-gleichungen/loesungsmenge/#loesungsmenge-anzahl
